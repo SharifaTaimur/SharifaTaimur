@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://app.daily.dev/Sharifa"><img src="https://api.daily.dev/devcards/1bb46b7513ce4186a9aac69526a4fbcb.png?r=j8o" width="400" alt="Sharifa Taimur's Dev Card"/></a>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/SharifaTaimur/SharifaTaimur/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
